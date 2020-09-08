@@ -9,4 +9,8 @@ export class HomePage {
 
   constructor() {}
 
+  onClickButton(){
+    console.log("ok")
+  }
+
 }
